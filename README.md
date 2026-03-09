@@ -1,5 +1,5 @@
 # 💫 About Me:
-Computer Science graduate with hands-on experience in IT support, networking, CCTV, and POS systems. Strong troubleshooting and problem-solving skills. Google Certified Educator (Level 1 & 2). Seeking a Junior Network or Software Engineer position.<br>
+Dedicated Computer Science graduate and Junior Network Engineer with a proven track record in deploying and maintaining robust IT infrastructure. Experienced in managing LAN switching, IP addressing, and network troubleshooting within small business environments. Currently advancing technical expertise through CCNA (200-301) and CCST Networking certifications to deliver scalable, high-performance connectivity solutions. Committed to ensuring system reliability through proactive technical maintenance and efficient remote user support.<br>
 
 
 ## 🌐 Socials:
